@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohammed Aafaq
-- 👀 I’m interested in software testing 
-- 🌱 I’m currently learning selenium 
+- 👋 Hi, I’m @mohammed Aafaq A
+- 👀 I’m interested in software testing / Software Developing
+- 🌱 I’m certified With selenium with Java  
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me contact no:8838918481
 
